@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+body {
+    background: rgb(53, 53, 53);
+    color: whitesmoke;
+    text-align: center;
+}
+header{
+    font-size: 72px;
+    font-family: Tangerine;
+    margin: auto;
+}
+.top h3{
+    font-size: 26px;
+    font-family: Unica One;
+}
+.top img{
+    width: 540px;
+}
+.all_watches_container{
+    background-color: #1A1818;
+    border: solid 2px #FDEFA6;
+    border-radius: 13px;
+    margin: 50px;
+}
+.watch_container img{
+    width: 150px;
+    display: block;
+    float: left;
+    margin: 10px;
+
+}
+.text h2{
+    font-family: Unica One;
+    display: block;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    text-align: left;
+    
+}
+.text p{
+    display: block;
+    text-align: left;
+    font-size: 16px;
+    margin: 5px;
+}
+.watch_description{
+    font-family: Dosis;
+}
+footer{
+    font-size: 30px;
+    font-family: Dosis;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
